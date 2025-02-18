@@ -13,7 +13,9 @@ This project is about investigating retail stores in Egypt.It was done to find t
 
 # Questions Asked
 1-Total Sales of top outlets
+
 2- Total Sales by category
+
 3- Total Sales by Product
 
 # Data Cleaning 

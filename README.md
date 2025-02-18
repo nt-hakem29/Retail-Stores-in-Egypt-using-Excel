@@ -4,8 +4,11 @@ This project is about investigating retail stores in Egypt.It was done to find t
 # Tools Used
 
 -**Excel**
+
 -**Excel Power Query**
+
 -**Excel Pivot Tables**
+
 -**DAX**
 
 # Questions Asked

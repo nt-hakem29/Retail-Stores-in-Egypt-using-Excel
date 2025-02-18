@@ -19,4 +19,11 @@ This project is about investigating retail stores in Egypt.It was done to find t
 3- Total Sales by Product
 
 # Data Cleaning 
-1- 
+
+1- Null entries
+
+2- Duplicate Values
+
+3- Inconsitent numbers 
+
+
